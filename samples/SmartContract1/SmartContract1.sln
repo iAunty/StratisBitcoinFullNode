@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartContract1", "SmartContract1\SmartContract1\SmartContract1.csproj", "{4A9A7FC2-A458-4AD5-B573-91061C1799C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartContract1.Tests", "SmartContract1\SmartContract1.Tests\SmartContract1.Tests.csproj", "{4727F7F1-B779-4CD8-A7FE-5EBACEFF0945}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A9A7FC2-A458-4AD5-B573-91061C1799C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A9A7FC2-A458-4AD5-B573-91061C1799C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A9A7FC2-A458-4AD5-B573-91061C1799C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A9A7FC2-A458-4AD5-B573-91061C1799C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4727F7F1-B779-4CD8-A7FE-5EBACEFF0945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4727F7F1-B779-4CD8-A7FE-5EBACEFF0945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4727F7F1-B779-4CD8-A7FE-5EBACEFF0945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4727F7F1-B779-4CD8-A7FE-5EBACEFF0945}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54D07FD8-D4A0-4A2D-B42C-5FB4F2E54E99}
+	EndGlobalSection
+EndGlobal
